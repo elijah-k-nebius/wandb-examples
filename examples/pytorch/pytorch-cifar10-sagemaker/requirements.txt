@@ -1,3 +1,0 @@
-sagemaker
-wandb
-torchvision
